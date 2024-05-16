@@ -1,0 +1,28 @@
+.glassmorphic-button {
+    background: rgba(128, 0, 128, 0.1); 
+    border-radius: 10px; 
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px); 
+    -webkit-backdrop-filter: blur(10px); /*  webkit  Safari */
+    color: rgb(11, 7, 142); 
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); /* button shadow */
+  }
+
+  .letter_color {
+
+    color: rgb(11, 7, 142); 
+
+  } 
+
+  /*popup reset V */
+  .popup {
+    background: rgba(128, 0, 128, 0.1); 
+    border-radius: 10px; 
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px); 
+    -webkit-backdrop-filter: blur(10px); /*  webkit  Safari */
+    color: rgb(11, 7, 142); 
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); /* button shadow */
+    z-index: 9999;
+  }
+
