@@ -3,7 +3,7 @@
 
 <h2 align="center">Desktop View</h2>
 <p align="center">
-  <img src="https://github.com/DrSlamp/CGCtemplate/assets/24397487/655b6a96-1b90-4e44-91ed-cf2b32c010d4" alt="ChicksGold" tittle="WJC Desktop"/>
+  <img src="https://github.com/DrSlamp/WaterJugChallenge/assets/24397487/12961676-7b25-4865-98d1-3923086c6d8a" alt="ChicksGold" tittle="WJC Desktop"/>
 </p>
 <h2 align="center">Mobile View</h2>
 <p align="center">
