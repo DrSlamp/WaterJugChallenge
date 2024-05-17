@@ -1,6 +1,6 @@
 
 
-![waterD](https://github.com/DrSlamp/WaterJugChallenge/assets/24397487/dbcb0d0b-a14a-4387-b919-e7d3ce2b7c23)<h1 align="center">Water Jug Challenge (wjc) v0</h1>![waterD](https://github.com/DrSlamp/WaterJugChallenge/assets/24397487/dbcb0d0b-a14a-4387-b919-e7d3ce2b7c23)
+<h1 align="center">![waterD](https://github.com/DrSlamp/WaterJugChallenge/assets/24397487/dbcb0d0b-a14a-4387-b919-e7d3ce2b7c23) Water Jug Challenge (wjc) v0 ![waterD](https://github.com/DrSlamp/WaterJugChallenge/assets/24397487/dbcb0d0b-a14a-4387-b919-e7d3ce2b7c23)</h1>
 
 <h2 align="center">Desktop View</h2>
 <p align="center">
