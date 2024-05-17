@@ -1,7 +1,17 @@
-# Water Jug Challenge (wjc) v0
 
-For this project:
-<b>Vuejs 3 Vue </b> was used for this project. 
+<h1 align="center">Water Jug Challenge (wjc) v0</h1>
+
+<h2 align="center">Desktop View</h2>
+<p align="center">
+  <img src="https://github.com/DrSlamp/CGCtemplate/assets/24397487/655b6a96-1b90-4e44-91ed-cf2b32c010d4" alt="ChicksGold" tittle="WJC Desktop"/>
+</p>
+<h2 align="center">Mobile View</h2>
+<p align="center">
+  <img src="https://github.com/DrSlamp/WaterJugChallenge/assets/24397487/06e29eae-e379-4a26-a1c4-2d4d4253362b" alt="ChicksGold Mobile" tittle="WJC Mobile"/>
+</p>
+
+### For this project:
+<b>Vuejs 3 Vue vite</b> was used for this project. 
 
 ## Explanation
 
